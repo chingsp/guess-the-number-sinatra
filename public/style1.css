@@ -37,5 +37,8 @@ a:hover {
 }
 
 img {
-  width:98%
+  width:98%;
+  max-width: 1000px;
+  margin-left:auto;
+  margin-left:auto
 }
